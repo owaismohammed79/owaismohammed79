@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owaismohammed79
+- 👋 Hi, I’m Mohammed Owais
 - 👀 I’m a tech enthusiast with a profound interest in MachineLearning, Web3, Blockchain technology
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 LinkedIn profile - https://www.linkedin.com/in/mohammed-owais-6658301b0/
