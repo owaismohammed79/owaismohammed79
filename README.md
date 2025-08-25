@@ -20,7 +20,7 @@
 
   # 💫 About Me:
 - 👋 Hi, I’m Mohammed Owais
-- 👀 I’m a tech enthusiast with a profound interest in Web3, Blockchain technology
+- 👀 I’m a tech enthusiast with a profound interest in software and it's development
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - ⚡ Fun fact: A focused fool can achieve more than a distracted genius
 
