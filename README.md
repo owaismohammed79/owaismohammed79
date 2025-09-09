@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Owais</h1>
 <h3 align="center">I’m a tech enthusiast with a profound interest in Software and it's Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owaismohammed79&label=Profile%20views&color=0e75b6&style=flat" alt="owaismohammed79" /> </p>
-
 - 🌱 I’m currently learning about **Machine Learning**
 
 - ⚡ Fun fact: **A focused fool can achieve more than a distracted genius**
@@ -23,3 +21,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=owaismohammed79&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=owaismohammed79&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owaismohammed79&label=Profile%20views&color=0e75b6&style=flat" alt="owaismohammed79" /> </p>
+
