@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Owais</h1>
-<h3 align="center">I’m a tech enthusiast with a profound interest in Software and it's Development</h3>
+<h3 align="center">If something bugs me, I code a fix. If it helps you, even better.</h3>
 
 - 🌱 I’m currently learning about **Machine Learning**
 
