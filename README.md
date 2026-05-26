@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Owais</h1>
 <h3 align="center">If something bugs me, I code a fix. If it helps you, even better.</h3>
 
-- 🌱 I’m currently learning about **Machine Learning**
+- 🌱 I’m currently learning about **Web Development**
 
 - ⚡ Fun fact: **A focused fool can achieve more than a distracted genius**
 
