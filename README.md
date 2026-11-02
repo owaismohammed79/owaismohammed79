@@ -21,3 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaismohammed79&label=Profile%20views&color=0e75b6&style=flat" alt="owaismohammed79" /> </p>
 
+
+
+[![An image of @owaismohammed79's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/owaismohammed79)](https://holopin.io/@owaismohammed79)
